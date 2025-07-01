@@ -20,3 +20,5 @@ First, we'll try to identify the important centers of profit and loss for the su
 	Made the Returned field into a calculated field where the null values are 0 and the Yes values are 1.
 	Used this new field to make a visualization for each of the following questions: 1. Which products have the highest return rate? 2. Which customers have the highest return rate?
 	Made a visualization of the average profit against the average return rate on a dimension of your choice (state, shipping mode, product type, etc.). Presented a visual argument why the superstore should do away with or keep doing business on the basis of this dimension.
+
+ https://public.tableau.com/views/Emily_Stevens-042925/Cat-regionProfitLoss?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
